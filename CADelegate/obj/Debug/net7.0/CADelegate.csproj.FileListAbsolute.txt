@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\CADelegate\bin\Debug\net7.0\CADelegate.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\CADelegate\bin\Debug\net7.0\CADelegate.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\CADelegate\bin\Debug\net7.0\CADelegate.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\CADelegate\bin\Debug\net7.0\CADelegate.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\CADelegate\bin\Debug\net7.0\CADelegate.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\CADelegate\obj\Debug\net7.0\CADelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\CADelegate\obj\Debug\net7.0\CADelegate.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\CADelegate\obj\Debug\net7.0\CADelegate.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\CADelegate\obj\Debug\net7.0\CADelegate.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\CADelegate\obj\Debug\net7.0\CADelegate.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\CADelegate\obj\Debug\net7.0\refint\CADelegate.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\CADelegate\obj\Debug\net7.0\CADelegate.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\CADelegate\obj\Debug\net7.0\CADelegate.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\CADelegate\obj\Debug\net7.0\ref\CADelegate.dll

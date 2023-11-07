@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\FunctionalProgramming\bin\Debug\net7.0\FunctionalProgramming.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\FunctionalProgramming\bin\Debug\net7.0\FunctionalProgramming.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\FunctionalProgramming\bin\Debug\net7.0\FunctionalProgramming.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\FunctionalProgramming\bin\Debug\net7.0\FunctionalProgramming.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\FunctionalProgramming\bin\Debug\net7.0\FunctionalProgramming.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\FunctionalProgramming\obj\Debug\net7.0\FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\FunctionalProgramming\obj\Debug\net7.0\FunctionalProgramming.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\FunctionalProgramming\obj\Debug\net7.0\FunctionalProgramming.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\FunctionalProgramming\obj\Debug\net7.0\FunctionalProgramming.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\FunctionalProgramming\obj\Debug\net7.0\FunctionalProgramming.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\FunctionalProgramming\obj\Debug\net7.0\refint\FunctionalProgramming.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\FunctionalProgramming\obj\Debug\net7.0\FunctionalProgramming.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\FunctionalProgramming\obj\Debug\net7.0\FunctionalProgramming.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LINQTut\FunctionalProgramming\obj\Debug\net7.0\ref\FunctionalProgramming.dll
